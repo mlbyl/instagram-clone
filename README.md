@@ -13,6 +13,7 @@
 - Jsonwebtoken
 - CORS
 - Swagger for API documentation
+- Firebase for Cloud operations
 
 ### Frontend
 - React
